@@ -1,0 +1,3 @@
+This repo is just made to explore Rust's typestate patterns, which has not left my mind for a week since I've read it - the computer science student in me has now likened everything including a treadmill to a state machine and this takes me straight back to my lectures on Theory of Computation.
+
+Helpfully, this does contribute to my new year resolution of exploring and building a project with Rust. 
